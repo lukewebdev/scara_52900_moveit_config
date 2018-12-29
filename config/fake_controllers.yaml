@@ -1,0 +1,7 @@
+controller_list:
+  - name: fake_scara_52900_controller
+    joints:
+      - waist
+      - shoulder
+      - elbow
+      - wrist
